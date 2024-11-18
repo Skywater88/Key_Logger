@@ -1,1 +1,1 @@
-Simmple keylogger, that needs manual run.
+Simple keylogger, that needs manual run.
